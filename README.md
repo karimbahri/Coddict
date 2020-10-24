@@ -14,7 +14,7 @@ Download tkinter: sudo apt-get install python3-tk
 
 
 ### Running
-cd coddict
+cd coddict\n
 python3 ./main.py
 
 ### ScreenShot
