@@ -19,4 +19,4 @@ Download tkinter: sudo apt-get install python3-tk
 
 ### ScreenShot
 
-![](https://imgur.com/gallery/1E77KTg)
+![](https://i.imgur.com/gallery/1E77KTg)
