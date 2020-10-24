@@ -29,7 +29,6 @@ class Window:
         self.scroll_zone = Scrollbar(self.app, command=self.text_zone.yview)
 
         self.text_zone.config(yscrollcommand=self.scroll_zone.set, bg="#1E1E1E", fg="#FFFFFF")
-        self.text_zone.tag_configure("red", foreground="red")
         
         self.tools = ToolBar(self)
         
