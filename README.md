@@ -7,4 +7,4 @@ Simple text editor.
 git clone https://github.com/GEEK1050/Coddict
 
 ### For Windows
-![Python](https://www.python.org/downloads/)
+![PyPI - Python Version](https://www.python.org/downloads/)
