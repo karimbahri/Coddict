@@ -5,7 +5,7 @@ from tkinter.filedialog import askopenfilename as ask_file
 from tkinter.filedialog import asksaveasfilename as ask_save
 
 from menu import ToolBar
-from functions import set_bg_colors
+#from functions import set_bg_colors
 
 """
     file containing the window codebase
