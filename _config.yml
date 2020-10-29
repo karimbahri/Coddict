@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 plugins: jekyll-titles-from-headings
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
