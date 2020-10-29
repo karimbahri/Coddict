@@ -3,10 +3,16 @@
 
 Coddict is a simple text editor for pyhton developer.
 
-### Markdown
+### Features
+###       File management
+![](fileStorage.png)
+![](open.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coddict gives you the ability to create, open and save a python script.
 
+###       Script execution
+![](execute.png)
+![](console.png)
 ```markdown
 Syntax highlighted code block
 
