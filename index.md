@@ -1,9 +1,7 @@
 ![](background.png)
-## Welcome to GitHub Pages
+## What is Coddict
 
-You can use the [editor on GitHub](https://github.com/GEEK1050/Coddict/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Coddict is a simple text editor for pyhton developer.
 
 ### Markdown
 
