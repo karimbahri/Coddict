@@ -1,4 +1,3 @@
-[repository](https://github.com/GEEK1050)
 ![](background.png)
 ## What is Coddict
 
