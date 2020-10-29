@@ -1,1 +1,2 @@
 theme: jekyll-theme-slate
+plugins: jekyll-titles-from-headings
