@@ -27,4 +27,4 @@ Also python has a vast community worldwide and this can be very useful when you 
 [Github repository](https://github.com/GEEK1050/Coddict).
 
 ## Optional
-![](https://www.youtu.be/haUhJ4APO5E)
+![Coddict Demo](https://www.youtube.com/watch?v=7s95HGpZQO8)
