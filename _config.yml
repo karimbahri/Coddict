@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
-plugins: jekyll-titles-from-headings
-titles_from_headings:
-  enabled:     true
-  strip_title: false
-  collections: false
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
