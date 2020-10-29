@@ -1,4 +1,4 @@
-![](rc/background.PNG)
+![](rc/background.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GEEK1050/Coddict/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
